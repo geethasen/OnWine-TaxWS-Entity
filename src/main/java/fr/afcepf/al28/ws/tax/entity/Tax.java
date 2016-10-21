@@ -9,7 +9,7 @@ import javax.persistence.NamedQuery;
 import javax.persistence.Table;
 
 @Entity
-@Table(name="taxpays")
+@Table(name="Taxpays")
 @NamedQuery(name="tax.findAll",query="SELECT t from Tax t")
 public class Tax implements Serializable {
 
