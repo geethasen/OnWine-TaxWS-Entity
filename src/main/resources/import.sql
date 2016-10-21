@@ -41,8 +41,7 @@ INSERT INTO Taxpays (codePays, nomPays, tva) VALUES('SK', 'Slovaquie', 19);
 INSERT INTO Taxpays (codePays, nomPays, tva) VALUES('US', 'Etats-Unis', 0);
 
 
-ALTER TABLE Taxpays
-  ADD PRIMARY KEY (codePays);
+ALTER TABLE Taxpays ADD PRIMARY KEY (codePays);
 
 /*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
 /*!40101 SET CHARACTER_SET_RESULTS=@OLD_CHARACTER_SET_RESULTS */;
