@@ -30,7 +30,7 @@ INSERT INTO Taxpays (codePays, nomPays, tva) VALUES('JP', 'Japon', 0);
 INSERT INTO Taxpays (codePays, nomPays, tva) VALUES('LT', 'Lituanie', 18);
 INSERT INTO Taxpays (codePays, nomPays, tva) VALUES('LU', 'Luxembourg', 15);
 INSERT INTO Taxpays (codePays, nomPays, tva) VALUES('LV', 'Lettonie', 18);
-INSERT INTO Taxpays (codePays, nomPays, tva) VALUES('MT', 'MALTE', 18);
+INSERT INTO Taxpays (codePays, nomPays, tva) VALUES('MT', 'Malte', 18);
 INSERT INTO Taxpays (codePays, nomPays, tva) VALUES('NL', 'Pays-Bas', 19);
 INSERT INTO Taxpays (codePays, nomPays, tva) VALUES('PL', 'Pologne', 22);
 INSERT INTO Taxpays (codePays, nomPays, tva) VALUES('PT', 'Portugal', 21);
